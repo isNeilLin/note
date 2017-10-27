@@ -10,3 +10,6 @@
 
 * Nginx
 	* [Nginx静态资源和反向代理配置](https://github.com/isNeilLin/note/issues/4)
+	
+* Go
+	* [go并发](https://github.com/isNeilLin/note/issues/7)
