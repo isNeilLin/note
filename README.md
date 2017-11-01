@@ -14,3 +14,6 @@
 * Go
 	* [go指针](https://github.com/isNeilLin/note/issues/8)
 	* [go并发](https://github.com/isNeilLin/note/issues/7)
+	
+* 其他
+	* [利用OwnCloud搭建私有云盘](https://github.com/isNeilLin/note/issues/6)
