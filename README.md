@@ -4,6 +4,7 @@
 
 * Vue
 	* [Vuex 笔记](https://github.com/isNeilLin/note/issues/9)
+	* [Vue Mixin](https://github.com/isNeilLin/note/issues/10)
 
 * RxJS
 	* [RxJS-基本概念](https://github.com/isNeilLin/note/issues/1)
