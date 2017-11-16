@@ -11,6 +11,10 @@
 	* [RxJS-Subject(主体)](https://github.com/isNeilLin/note/issues/2)
 	* [RxJS-Operators(操作符)](https://github.com/isNeilLin/note/issues/3)
 	* [RxJS-Scheduler(调度器)](https://github.com/isNeilLin/note/issues/5)
+	
+* Meteor
+
+	* [Meteor 笔记](https://github.com/isNeilLin/note/issues/11)
 
 * Nginx
 	* [Nginx静态资源和反向代理配置](https://github.com/isNeilLin/note/issues/4)
