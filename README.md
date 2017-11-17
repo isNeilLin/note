@@ -28,4 +28,5 @@
 	* [go并发](https://github.com/isNeilLin/note/issues/7)
 	
 * 其他
+	* [yarn 常用命令](https://github.com/isNeilLin/note/issues/13)
 	* [利用OwnCloud搭建私有云盘](https://github.com/isNeilLin/note/issues/6)
