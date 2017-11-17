@@ -6,6 +6,10 @@
 	* [Vuex 笔记](https://github.com/isNeilLin/note/issues/9)
 	* [Vue Mixin](https://github.com/isNeilLin/note/issues/10)
 
+* React
+
+	* [styled-components](https://github.com/isNeilLin/note/issues/12)
+
 * RxJS
 	* [RxJS-基本概念](https://github.com/isNeilLin/note/issues/1)
 	* [RxJS-Subject(主体)](https://github.com/isNeilLin/note/issues/2)
