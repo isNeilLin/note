@@ -19,6 +19,9 @@
 * Meteor
 
 	* [Meteor 笔记](https://github.com/isNeilLin/note/issues/11)
+	
+* Node
+	* [忘掉Mongoose吧，这是更优雅的Mongorito](https://github.com/isNeilLin/note/issues/14)
 
 * Nginx
 	* [Nginx静态资源和反向代理配置](https://github.com/isNeilLin/note/issues/4)
