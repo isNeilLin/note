@@ -16,6 +16,9 @@
 	* [RxJS-Operators(操作符)](https://github.com/isNeilLin/note/issues/3)
 	* [RxJS-Scheduler(调度器)](https://github.com/isNeilLin/note/issues/5)
 	
+* Javascript设计模式与开发实践-读书笔记
+	* [Javascript设计模式与开发实践-读书笔记01](https://github.com/isNeilLin/note/issues/15)
+	
 * Meteor
 
 	* [Meteor 笔记](https://github.com/isNeilLin/note/issues/11)
@@ -33,5 +36,4 @@
 	
 * 其他
 	* [yarn 常用命令](https://github.com/isNeilLin/note/issues/13)
-	* [Javascript设计模式与开发实践-读书笔记](https://github.com/isNeilLin/note/issues/15)
 	* [利用OwnCloud搭建私有云盘](https://github.com/isNeilLin/note/issues/6)
