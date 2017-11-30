@@ -17,7 +17,8 @@
 	* [RxJS-Scheduler(调度器)](https://github.com/isNeilLin/note/issues/5)
 	
 * Javascript设计模式与开发实践-读书笔记
-	* [Javascript设计模式与开发实践-读书笔记01](https://github.com/isNeilLin/note/issues/15)
+	* [面向对象、作用域、闭包、高阶函数](https://github.com/isNeilLin/note/issues/15)
+	* [单例模式](/16)
 	
 * Meteor
 
