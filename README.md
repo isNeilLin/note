@@ -19,7 +19,7 @@
 * Javascript设计模式与开发实践-读书笔记
 	* [面向对象、作用域、闭包、高阶函数](https://github.com/isNeilLin/note/issues/15)
 	* [单例模式](https://github.com/isNeilLin/note/issues/16)
-	
+	* [策略模式](https://github.com/isNeilLin/note/issues/17)
 * Meteor
 
 	* [Meteor 笔记](https://github.com/isNeilLin/note/issues/11)
