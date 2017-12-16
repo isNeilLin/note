@@ -5,7 +5,8 @@
 * Vue
 	* [Vuex 笔记](https://github.com/isNeilLin/note/issues/9)
 	* [Vue Mixin](https://github.com/isNeilLin/note/issues/10)
-
+	* [Vue 双向数据绑定实现](https://github.com/isNeilLin/note/issues/18)
+	
 * React
 
 	* [styled-components](https://github.com/isNeilLin/note/issues/12)
