@@ -33,6 +33,7 @@
 	* [Nginx静态资源和反向代理配置](https://github.com/isNeilLin/note/issues/4)
 	
 * Go
+	* [go安装配置](https://github.com/isNeilLin/note/issues/19)
 	* [go指针](https://github.com/isNeilLin/note/issues/8)
 	* [go并发](https://github.com/isNeilLin/note/issues/7)
 	
