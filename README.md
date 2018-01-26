@@ -36,6 +36,7 @@
 	* [go安装配置](https://github.com/isNeilLin/note/issues/19)
 	* [go指针](https://github.com/isNeilLin/note/issues/8)
 	* [go并发](https://github.com/isNeilLin/note/issues/7)
+	* [go其他知识点](https://github.com/isNeilLin/note/issues/20)
 	
 * 其他
 	* [yarn 常用命令](https://github.com/isNeilLin/note/issues/13)
