@@ -32,6 +32,9 @@
 * Nginx
 	* [Nginx静态资源和反向代理配置](https://github.com/isNeilLin/note/issues/4)
 	
+* 数据结构与算法
+	* [Javascript数据结构-AVL树](https://github.com/isNeilLin/note/issues/21)
+	
 * Go
 	* [go安装配置](https://github.com/isNeilLin/note/issues/19)
 	* [go基础](https://github.com/isNeilLin/note/issues/20)
