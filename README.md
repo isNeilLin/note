@@ -16,6 +16,7 @@
 	* [RxJS-Subject(主体)](https://github.com/isNeilLin/note/issues/2)
 	* [RxJS-Operators(操作符)](https://github.com/isNeilLin/note/issues/3)
 	* [RxJS-Scheduler(调度器)](https://github.com/isNeilLin/note/issues/5)
+	* [《深入浅出RxJS》笔记](https://github.com/isNeilLin/note/issues/22)
 	
 * 笔记
 	* [面向对象、作用域、闭包、高阶函数](https://github.com/isNeilLin/note/issues/15)
