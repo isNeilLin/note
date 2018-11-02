@@ -46,5 +46,6 @@
 	* [go并发](https://github.com/isNeilLin/note/issues/7)
 	
 * 其他
+	* [面向未来的API —— GitHub GraphQL API 使用介绍](https://zhuanlan.zhihu.com/p/28077095)
 	* [yarn 常用命令](https://github.com/isNeilLin/note/issues/13)
 	* [利用OwnCloud搭建私有云盘](https://github.com/isNeilLin/note/issues/6)
