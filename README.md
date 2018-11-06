@@ -10,6 +10,7 @@
 * React
 
 	* [styled-components](https://github.com/isNeilLin/note/issues/12)
+	* [react-redux 之 connect 方法详解](http://taobaofed.org/blog/2016/08/18/react-redux-connect)
 
 * RxJS
 	* [RxJS-基本概念](https://github.com/isNeilLin/note/issues/1)
